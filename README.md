@@ -1,6 +1,6 @@
 # fpd-design
 
-This repo serves as a high-level design requirements 
+This serves as a high-level design repository for FirePick Delta.
 
 ## Design Document Wiki
 
